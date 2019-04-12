@@ -33,7 +33,7 @@ query_parameters <- list(
 
 The FIA data uses a dash (**-**) to denote missing values or zeros. Edit the blanks veriable to suit your needs.
 
-````r
+```r
 
 ## How to handle cells with a dash
 
